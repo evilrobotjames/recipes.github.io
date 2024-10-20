@@ -1,5 +1,3 @@
-# James's recipes
-
 [Spicy lamn meatballs](lamb-meatballs.md)
 
 tiffin
