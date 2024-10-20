@@ -21,6 +21,6 @@
 
 ## Notes
 
-Shrinkflation seems to apply to everything except butter and marshmallows.  Bags of toffees (200g -> 175g), rice cripies (400 -> 375g) and chocolate (200g -> 180g).  Maybe adjust, but I don't bother.
+Shrinkflation seems to apply to everything except butter and marshmallows.  Bags of toffees (200g→175g), rice cripies (400→375g) and chocolate (200g→180g).  Maybe adjust, but I don't bother.
 
 Unwrapping the toffees is a faff, but I can't find non-individually wrapped toffee anywhere.
