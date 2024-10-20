@@ -1,5 +1,6 @@
 # Mains
-[Spicy Lamb Meatballs](lamb-meatballs.md)
+
+[Spicy Lamb Koftas](spicy-lamb-koftas.md)
 
 chorizo kale broth
 
@@ -8,8 +9,6 @@ chorizo risotto
 toad in the hole
 
 macaroni cheese
-
-spicy carrot soup
 
 lasagne
 
@@ -21,8 +20,6 @@ big breakfast bonanza
 
 # Deserts
 
-[Tiffin](tiffin.md)
-
 [Rice Crispie Cakes](rice-crispie-cakes.md)
 
-
+[Tiffin](tiffin.md)
