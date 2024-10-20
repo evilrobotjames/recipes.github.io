@@ -1,6 +1,6 @@
 # James's recipes
 
-[Spicy lamn meatballs](lamb-meatballs)
+[Spicy lamn meatballs](lamb-meatballs.md)
 
 tiffin
 
