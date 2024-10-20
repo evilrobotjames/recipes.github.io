@@ -2,7 +2,7 @@
 
 tiffin
 
-rice crispie cake
+[Rice Crispie Cakes](rice-crispie-cakes.md)
 
 chorizo kale broth
 
