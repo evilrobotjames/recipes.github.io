@@ -1,14 +1,9 @@
-[Spicy lamn meatballs](lamb-meatballs.md)
-
-tiffin
-
-[Rice Crispie Cakes](rice-crispie-cakes.md)
+# Mains
+[Spicy Lamb Meatballs](lamb-meatballs.md)
 
 chorizo kale broth
 
 chorizo risotto
-
-pancakes
 
 toad in the hole
 
@@ -18,4 +13,16 @@ spicy carrot soup
 
 lasagne
 
+# Breakfasts
+
+pancakes
+
 big breakfast bonanza
+
+# Deserts
+
+[Tiffin](tiffin.md)
+
+[Rice Crispie Cakes](rice-crispie-cakes.md)
+
+
