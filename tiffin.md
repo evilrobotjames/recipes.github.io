@@ -11,11 +11,10 @@
 - White chocolate (50g)
 
 ## Instructions
-1. Break biscuits into uneven chunks and mix with raisens
-1. Melt butter and add:
-    1. golden syrup
-    1. cocoa powder
+1. Break **biscuits** into uneven chunks and mix with **raisens**
+1. Melt **butter** and add:
+    - **golden syrup**
+    - **cocoa powder**
 1. Mix everything together and press down into a medium tray bake tin
-1. Melt chocolates and:
-    1. cover with the milk chocolate
-    1. criss cross with white chocolate
+1. Melt and cover with **milk chocolate**
+1. Melt and criss cross with **white chocolate**
