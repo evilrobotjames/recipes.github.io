@@ -11,7 +11,7 @@
 - White chocolate (50g)
 
 ## Instructions
-1. Break **biscuits** into uneven chunks and mix with **raisens**
+1. Break **digestives** into uneven chunks and mix with **raisens**
 1. Melt **butter** and add:
     - **golden syrup**
     - **cocoa powder**
