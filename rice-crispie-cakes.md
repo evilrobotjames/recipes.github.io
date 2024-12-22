@@ -10,11 +10,11 @@
 
 ## Steps
 
-1. Unwrap all toffees
-1. Melt butten in a _very_ large pan, medium-low heat.
-1. Add toffees and stir occasionally until melted
-1. Add the marshmallows and stir more often until melted
-1. Add rice crispies and mix until all coated
+1. Unwrap Toffees
+1. Melt butter in a _very_ large pan
+1. Add toffees to pan and stir occasionally until melted
+1. Add marshmallows to pan and stir more often until melted
+1. Add Rice crispies and mix until all coated
 1. Pour into large tray and smooth down the surface, but don't compact it too much.
 1. Fridge for 2h or leave to cool
 1. Melt chocolate, and spoon it on top.  Jiggle tray to smooth the chocolate.
