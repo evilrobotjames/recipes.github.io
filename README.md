@@ -1,6 +1,8 @@
 # Mains
 
-[Spicy Lamb Koftas](spicy-lamb-koftas.md)
+[Spicy Lamb Koftas](spicy-lamb-koftas)
+
+[Lasagne](lasagna)
 
 chorizo kale broth
 
@@ -10,7 +12,7 @@ toad in the hole
 
 macaroni cheese
 
-lasagne
+
 
 # Breakfasts
 
@@ -20,8 +22,8 @@ big breakfast bonanza
 
 # Deserts
 
-[Rice Crispie Cakes](rice-crispie-cakes.md)
+[Rice Crispie Cakes](rice-crispie-cakes)
 
-[Tiffin](tiffin.md)
+[Tiffin](tiffin)
 
 New york cheesecake
