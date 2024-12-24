@@ -2,7 +2,7 @@
 
 [Spicy Lamb Koftas](spicy-lamb-koftas.md)
 
-[Lasagne](lasagna.md)
+[Lasagne](lasagne.md)
 
 chorizo kale broth
 
