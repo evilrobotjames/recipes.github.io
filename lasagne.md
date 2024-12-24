@@ -1,7 +1,5 @@
 # Lasagne
 
-Slow cook the meat, then assemble and bake for 1h.
-
 ## Ingredients
 
 ### Meat
@@ -20,9 +18,15 @@ Slow cook the meat, then assemble and bake for 1h.
 - Butter, 120g
 - Flour, 120g
 - Milk, 1.4L
-- Cheese, 320g
+- Cheese, 200g
+
+### Assembly 
+- Lasagna sheets, 12
+- Cheese for topping, 150g
 
 ## Steps
-
+1. Slow cook the meat
+1. Make bechamel and assemble
+1. Bake for 1h, 180C
 
 
