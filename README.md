@@ -4,21 +4,9 @@
 
 [Lasagne](lasagne.md)
 
-chorizo kale broth
-
-chorizo risotto
-
-toad in the hole
-
-macaroni cheese
-
-
-
 # Breakfasts
 
-pancakes
-
-big breakfast bonanza
+[Pancakes](pancakes.md)
 
 # Deserts
 
@@ -26,4 +14,16 @@ big breakfast bonanza
 
 [Tiffin](tiffin.md)
 
+# To-Do
+
 New york cheesecake
+
+big breakfast bonanza
+
+chorizo kale broth
+
+chorizo risotto
+
+toad in the hole
+
+macaroni cheese
