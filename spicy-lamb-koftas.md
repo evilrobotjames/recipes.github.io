@@ -9,7 +9,7 @@ Spicy lamb koftas in tomato and yoghurt sauce.  Make meatballs in advance.
 - Onion, grated, 1
 - Lamb mince, 500g
 - Ginger, 30g
-- Gralic cloves, 3
+- Garlic cloves, 3
 - Chillies, 2
 - Salt, 1/2 tsp
 - Egg, 1
@@ -26,7 +26,7 @@ Spicy lamb koftas in tomato and yoghurt sauce.  Make meatballs in advance.
 - Paprika, 1 tsp
 - Garam masala, 1tsp
 - Salt, 1/2 tsp
-- Tinned tomatos, 200g
+- Tinned tomatoes, 200g
 - 150ml natural yoghurt
 
 ## Steps
@@ -42,4 +42,4 @@ Spicy lamb koftas in tomato and yoghurt sauce.  Make meatballs in advance.
 1. Add all remaining **ground spices** and fry for 30s
 1. Add **tomatoes** and stir in **yoghurt**
 1. Add meatballs and cover.
-1. Simmer for 1h, moving the meatballs every 15mins to stop them sticking
+1. Cover and simmer for 1h, moving the meatballs every 15mins to stop them sticking
