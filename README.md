@@ -6,6 +6,8 @@
 
 [Macaroni Cheese](macaroni-cheese.md)
 
+[Sweet and Sour Chicken](sweet-and-sour.md)
+
 # Breakfasts
 
 [Pancakes](pancakes.md)
@@ -21,8 +23,6 @@
 # To-Do
 
 New york cheesecake
-
-Sweet and sour chicken
 
 chorizo kale broth
 
