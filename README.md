@@ -8,6 +8,10 @@
 
 [Sweet and Sour Chicken](sweet-and-sour.md)
 
+# Soup
+
+[Leek and Potato Soup](leek-and-potato-soup.md)
+
 # Breakfasts
 
 [Pancakes](pancakes.md)
