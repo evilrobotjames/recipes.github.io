@@ -16,6 +16,7 @@
 3. Melt **butter** in large pan, and add **leeks**, **potatos**, and **onions**
 4. Cook gently for 10m so veg doesn't discolour
 5. Add **vegetable stock**
-6. Blend with hand-blender
-7. Add cream
-8. Loads of salt and pepper
+6. Cook for another 5m
+7. Blend with hand-blender
+8. Add cream
+9. Loads of salt and pepper
