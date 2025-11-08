@@ -10,7 +10,7 @@
 
 ## Steps
 1. Boil **macaroni** for 10mins
-1. Pre-heat the **milk** to make combining quicker
+1. Pre-heat the **milk** to make combining quicker (microwave)
 1. Melt **butter**, add **flour**
 1. Combine with **milk**, adding it gradually
 1. Mix in 2/3 of the **cheese**
