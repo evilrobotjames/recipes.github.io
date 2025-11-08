@@ -8,6 +8,8 @@
 
 [Sweet and Sour Chicken](sweet-and-sour.md)
 
+[Toad in the Hole](toad-in-the-hole.md)
+
 # Soup
 
 [Leek and Potato Soup](leek-and-potato-soup.md)
@@ -32,4 +34,4 @@ chorizo kale broth
 
 chorizo risotto
 
-toad in the hole
+
